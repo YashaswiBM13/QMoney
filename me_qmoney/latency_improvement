@@ -1,0 +1,14 @@
+Time measured before implementation of Concurrency:
+real    0m0.567s
+user    0m0.193s
+sys     0m0.050s
+
+Time measured after implementation of Concurrency:
+real    0m0.499s
+user    0m0.203s
+sys     0m0.038s
+
+Differences:
+real	0m0.068s -- Good
+user	-0m0.010s -- not expected
+sys	0m0.012s -- Good
